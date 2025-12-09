@@ -1,0 +1,7 @@
+[package]
+name = "typst-template-ensam"
+version = "0.1.0"
+entrypoint = "template.typ"
+description = "A brief description of your template."
+authors = ["BAHLAOUI Ahmed - <AhmedBahlaoui@outlook.com>"]
+license = "MIT"
