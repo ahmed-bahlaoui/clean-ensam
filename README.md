@@ -5,7 +5,7 @@ A simple, clean, and customizable template for ENSAM RABAT needs.
 **Disclaimer**: This template is in **no way shape or form affiliated with UM5 or ENSAM RABAT**
 This is an **unofficial document** designed to help you quickly get up to speed with your work at ENSAM RABAT and is **in no way affiliated with the school.**
 
-![Page de garde](images/example.png)
+![Page de garde](images/thumbnail.png)
 
 ## Features
 
